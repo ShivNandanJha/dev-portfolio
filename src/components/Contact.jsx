@@ -36,11 +36,11 @@ const Contact = () => {
        'service_nj78rbu',
         'template_64rq7vi',
         {
-          from_name: form.name,
-          to_name: "Shiv Nandan Jha",
+          from_name : form.name,
+          to_name   : "Shiv Nandan Jha",
           from_email: form.email,
-          to_email: "shivjha1226@gmail.com",
-          message: form.message,
+          to_email  : "shivjha1226@gmail.com",
+          message   : form.message,
         },
     'Kcn_nKpkbEBdthKju'
       )
